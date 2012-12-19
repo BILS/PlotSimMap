@@ -7,4 +7,4 @@ Requires Perl and the R-packages "APE" (http://ape.mpl.ird.fr/, http://cran.r-pr
 "phyloch" (http://www.christophheibl.de/Rpackages.html).
 
 
-See PlotSimMap.pdf for further instructions.
+See https://github.com/nylander/PlotSimMap/blob/master/PlotSimMap.pdf for further instructions.
