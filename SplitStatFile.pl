@@ -13,7 +13,7 @@
          BUGS: ---
         NOTES: ---
        AUTHOR: Johan Nylander 
-      COMPANY: NRM/BILS
+      COMPANY: NRM/NBIS
       VERSION: 1.0
       CREATED: 10/29/2012 02:33:26 PM
      REVISION: ---
